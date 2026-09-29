@@ -1,1 +1,1 @@
-# Working on my HTML and CSS Assignment.
+# Working and learning HTML and CSS Assignment.
